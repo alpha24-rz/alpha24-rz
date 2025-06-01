@@ -1,90 +1,90 @@
+<!-- Animasi background dengan gradient bergerak -->
+<div align="center">
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="100%" height="auto" alt="animated background" />
+</div>
+
 <h1 align="center">
-  Halo! Saya <a href="https://github.com/username" target="_blank">Nama Kamu</a> 👋
+  ✨ Halo, Saya Muhammad Alfarizi ✨
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJjN2hxNWJhZ3d1cG1lM2xqM2l1bGJvNnF3aTZ5Y3N1YzB4dGtjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Design & Code" />
 </p>
 
 <p align="center">
   <em>
-    <a href="https://linkedin.com/in/username" target="_blank">LinkedIn</a> • 
-    <a href="https://twitter.com/username" target="_blank">Twitter</a> • 
-    <a href="https://yourblog.com" target="_blank">Blog</a>
+    🎨 UI/UX Designer & 💻 Frontend Developer | 
+    🎓 Mahasiswa Universitas Negeri Makassar
   </em>
 </p>
 
----
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/your-dribbble)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
 
-## 🚀 Tentang Saya
-
-Saya seorang **Software Engineer** yang suka eksplor teknologi baru dan menyukai tantangan rumit.  
-Sehari-hari saya bekerja membangun aplikasi yang _clean code_, _scalable_, dan _user-friendly_.  
-
-✨ Motto saya:  
-> _Code less, do more!_ 💻⚡
-
----
-
-## 💻 Skill Saya
-
-| Bahasa Pemrograman | Level |  
-| ------------------ | ------ |  
-| JavaScript         | <img src="https://img.shields.io/badge/Level-Expert-green" alt="Expert" /> |  
-| Python             | <img src="https://img.shields.io/badge/Level-Advanced-yellow" alt="Advanced" /> |  
-| Go                 | <img src="https://img.shields.io/badge/Level-Intermediate-orange" alt="Intermediate" /> |  
-| Rust               | <img src="https://img.shields.io/badge/Level-Beginner-red" alt="Beginner" /> |  
+</div>
 
 ---
 
-## 🔧 Tools & Framework Favorit
+## 🎨 Tentang Saya
 
-<p>
+Saya seorang UI/UX Designer dengan minat kuat pada frontend development, terutama menggunakan JavaScript dan stack MERN. Saat ini saya masih belajar dan mengembangkan kemampuan saya di bidang desain dan pemrograman.
+
+Saya senang berkolaborasi dalam project yang menantang dan berdampak.
+
+---
+
+## 🛠️ Skill Utama
+
+<div align="center">
+
+| Bidang           | Skill & Tools                                       | Level                   |
+|------------------|----------------------------------------------------|-------------------------|
+| **Design**       | Figma, Adobe XD, Photoshop, Illustrator             | ![Advanced](https://img.shields.io/badge/Level-Advanced-yellow?style=flat-square&logo=star&logoColor=white) |
+| **Frontend**     | JavaScript, React, HTML5, CSS3                       | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-orange?style=flat-square&logo=star-half&logoColor=white) |
+| **Stack MERN**   | MongoDB, Express, React, Node.js                     | ![Beginner](https://img.shields.io/badge/Level-Beginner-red?style=flat-square&logo=star-outline&logoColor=white) |
+| **Graphic Design** | Branding, Digital Illustration                      | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-orange?style=flat-square&logo=star-half&logoColor=white) |
+
+</div>
+
+---
+
+## ⚡ Tools Favorit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-## ⚡ Proyek Pilihan
+## 🚀 Proyek Pilihan
 
-- [**RealTime-IoT Dashboard**](https://github.com/username/realtime-iot-dashboard)  
-  _Monitoring data sensor secara real-time dengan React dan WebSocket._
+<div align="center">
+  
+| Project | Deskripsi | Teknologi |
+|---------|-----------|-----------|
+| **[Portfolio UI/UX](https://github.com/alpha24-rz/portfolio-uiux)** | Showcase desain dan project UI/UX saya | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **[React MERN Starter](https://github.com/alpha24-rz/react-mern-starter)** | Template MERN untuk belajar | ![MERN](https://img.shields.io/badge/MERN-000000?style=flat-square&logo=react&logoColor=61DAFB) |
+| **[Graphic Design Showcase](https://github.com/alpha24-rz/graphic-design-showcase)** | Kumpulan karya desain digital | ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) |
 
-- [**ChatBuddy AI**](https://github.com/username/chatbuddy-ai)  
-  _Chatbot AI berbasis NLP untuk layanan pelanggan otomatis._
-
-- [**JsonHelper Go Lib**](https://github.com/username/jsonhelper)  
-  _Library Go untuk manipulasi data JSON dengan cara mudah dan cepat._
-
----
-
-## 📊 Statistik GitHub Saya
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
+</div>
 
 ---
 
-## 🎯 Sedang Belajar & Eksperimen
+## 📚 Sedang Belajar
 
-- Advanced TypeScript & Design Patterns  
-- Cloud Native dengan Kubernetes  
-- Machine Learning & AI Basics  
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=username.username" alt="visitor badge"/>
-</p>
-
----
-
-**Mau ngobrol soal teknologi atau kerja bareng?**  
-Jangan sungkan [hubungi saya](mailto:emailkamu@example.com) ya! 🚀
-
----
-
+```mermaid
+graph LR
+A[Frontend] --> B(React Advanced)
+A --> C(CSS Animations)
+D[UI/UX] --> E(UX Research)
+D --> F(Microinteractions)
+G[Backend] --> H(Node.js)
+G --> I(MongoDB)
